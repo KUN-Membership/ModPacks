@@ -1,6 +1,7 @@
 {
 	"orderList": [
-		"vanilla-1.20.4",
-		"local-1.20.4"
+		"vanilla-forge-1.20.4",
+		"local-forge-1.20.4",
+		"snakePlayer-forge-1.20.1"
 	]
 }
