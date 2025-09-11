@@ -1,0 +1,16 @@
+{
+  "id": "de.maxhenkel:camera:1.20.1-1.0.20@jar",
+  "name": "Camera Mod",
+  "author": "Max Henkel",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 299726,
+    "MD5": "7f707898d1ed0753a5a5043cbdf806a8",
+    "url": "",
+    "license": "All rights reserved",
+    "manual": {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/camera-mod/download/6480231",
+      "name": "camera-forge-1.20.1-1.0.20.jar"
+    }
+  }
+}
