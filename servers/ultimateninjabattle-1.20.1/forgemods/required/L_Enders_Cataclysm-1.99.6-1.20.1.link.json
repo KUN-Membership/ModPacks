@@ -1,16 +1,16 @@
 {
-  "id": "com.github.l_ender:cataclysm:1.99.5@jar",
+  "id": "com.github.l_ender:cataclysm:2.56@jar",
   "name": "Cataclysm Mod",
   "author": "L_Ender",
   "type": "ForgeMod",
   "artifact": {
-    "size": 48848879,
-    "MD5": "d6e1c9dfd516b917d6a70af81e72ac3f",
+    "size": 0,
+    "MD5": "",
     "url": "",
     "license": "All rights reserved",
     "manual": {
-      "url": "https://www.curseforge.com/minecraft/mc-mods/lendercataclysm/download/5474791",
-      "name": "L_Enders_Cataclysm-1.99.6-1.20.1.jar"
+      "url": "https://www.curseforge.com/minecraft/mc-mods/lendercataclysm/download/6208724",
+      "name": "L_Enders_Cataclysm-2.56- 1.20.1.jar"
     }
   }
 }
