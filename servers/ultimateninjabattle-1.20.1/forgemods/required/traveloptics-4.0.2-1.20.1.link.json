@@ -1,16 +1,16 @@
 {
-  "id": "com.gametechbc:traveloptics:6.3.0-1.20.1@jar",
+  "id": "com.gametechbc:traveloptics:4.0.2-1.20.1@jar",
   "name": "T.O Magic 'n Extras",
   "author": "GameTechBC",
   "type": "ForgeMod",
   "artifact": {
-    "size": 0,
-    "MD5": "",
+    "size": 18447799,
+    "MD5": "16acec77292a13c07a857199cb6736db",
     "url": "",
     "license": "All Rights Reserved",
     "manual": {
       "url": "https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells/download/6209055",
-      "name": "traveloptics-6.3.0-1.20.1.jar"
+      "name": "traveloptics-4.0.2-1.20.1.jar"
     }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "id": "net.veroxuniverse:epicsamurai:0.0.46-1.20.1-neo@jar",
+  "name": "Epic Samurai",
+  "author": "epicsamuraisareus",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2318497,
+    "MD5": "326c957ee3eaeffaca65495b2acfa35d",
+    "url": "",
+    "license": "GNU Lesser General Public License v3.0",
+    "manual": {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/samurai-dynasty/download/5493853",
+      "name": "epicsamurai-0.0.46-1.20.1-neo.jar"
+    }
+  }
+}
