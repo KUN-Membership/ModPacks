@@ -1,0 +1,16 @@
+{
+  "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
+  "name": "Player Animator",
+  "author": "KosmX",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 0,
+    "MD5": "",
+    "url": "",
+    "license": "MIT",
+    "manual": {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/playeranimator/download/4587214",
+      "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+    }
+  }
+}

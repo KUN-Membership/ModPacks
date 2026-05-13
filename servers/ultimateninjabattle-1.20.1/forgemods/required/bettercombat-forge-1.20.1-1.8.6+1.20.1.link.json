@@ -1,0 +1,16 @@
+{
+  "id": "net.bettercombat:bettercombat:1.8.6+1.20.1@jar",
+  "name": "Better Combat",
+  "author": "Daedelus",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 0,
+    "MD5": "",
+    "url": "",
+    "license": "All Rights Reserved",
+    "manual": {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus/download/5625757",
+      "name": "bettercombat-forge-1.8.6+1.20.1.jar"
+    }
+  }
+}
